@@ -1,8 +1,8 @@
 # AI-plays-GTA5
 
--- inspired from sentdex ( https://github.com/Sentdex/pygta5 )
+                                        -- inspired from sentdex ( https://github.com/Sentdex/pygta5 )
 
-I aint got much to talk about this, most of the code is his and I changed them according to my specifications.
+I ain't got much to talk about this, most of the code is his and I changed them according to my specifications.
 I used this a toy problem to get started with DNN.
 
 To use it, just run the test_model.py (link to a trained model : ), and don't forget to change the dimensions according to your window size.
