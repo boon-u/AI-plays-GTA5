@@ -11,7 +11,7 @@ model = alexnet(WIDTH, HEIGHT, LR)
 
 train_data = np.load(MODEL_NAME)
 
-train = train_data[:int(len(train_data)*0.9)]  #90% top data
+train = train_data[:int(len(train_data)*0.9)]  #top 90% data
 test = train_data[int(len(train_data)*0.9):]  #remaining 10% data
 
 X = np.array([i[0] for i in train]).reshape(-1,WIDTH,HEIGHT,1)
