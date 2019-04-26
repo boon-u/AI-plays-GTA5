@@ -1,6 +1,6 @@
 # AI-plays-GTA5
 
-                                     -- inspired from sentdex ( https://github.com/Sentdex/pygta5 )
+                                   -- inspired from sentdex ( https://github.com/Sentdex/pygta5 )
 
 I ain't got much to talk about this, most of the code is his and I changed them according to my specifications.
 I used this a toy problem to get started with DNN.
