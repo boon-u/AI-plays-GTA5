@@ -1,4 +1,4 @@
-                                                          # AI-plays-GTA5
+# AI-plays-GTA5
 
                                      -- inspired from sentdex ( https://github.com/Sentdex/pygta5 )
 
