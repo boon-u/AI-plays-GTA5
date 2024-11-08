@@ -2,11 +2,8 @@
 
                                    -- inspired from sentdex ( https://github.com/Sentdex/pygta5 )
 
-I ain't got much to talk about this, most of the code is his and I changed them according to my specifications.
-I used this as a toy problem to get started with DNN.
+I have minimal comments to add here, as much of the foundational code was provided, with modifications made to meet specific requirements. This served as an introductory project for experimenting with Deep Neural Networks (DNN).
 
-To use it, just run the test_model.py (link to a trained model : https://drive.google.com/open?id=15Z0CiZpWzLaEwCIfYY6sqKGBWAvpyD1l ), and don't forget to change the dimensions according to your window size.
-After cleaning data, the valid data samples are around 22k and the accuracy of the model is 67% (not so bad !!)
+To run, simply execute test_model.py (trained model available here). Ensure window dimensions are adjusted as necessary. Following data cleanup, the model achieved approximately 22,000 valid samples and a 67% accuracy rate.
 
-Trained Model demo (contains no explaintion 😜) : https://www.youtube.com/watch?v=4RlbFVdEfd4
-
+For a demonstration, see this video: https://www.youtube.com/watch?v=4RlbFVdEfd4
